@@ -2,5 +2,5 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/dona3dportfolio/', // This should match your GitHub repository name
+  base: 'gdagm94/dona3dportfolio/', // This should match your GitHub repository name
 });
